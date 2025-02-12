@@ -5,7 +5,7 @@
   "packageManager": "pnpm@9.5.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zh0rg/graphile-worker-extension.git"
+    "url": "https://github.com/Zh0rg/graphile-worker-helpers.git"
   },
   "main": "dist/index.js",
   "scripts": {
