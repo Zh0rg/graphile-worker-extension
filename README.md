@@ -1,6 +1,6 @@
-# Graphile worker extension
+# Graphile worker helpers
 
-A set of functions adding hierarchy and job progress functionnality to the [graphile-worker](https://github.com/graphile/worker) package inspired by [BullMQ's Flow](https://docs.bullmq.io/guide/flows).
+A set of helpers adding hierarchy and job progress functionnality to the [graphile-worker](https://github.com/graphile/worker) package inspired by [BullMQ's Flow](https://docs.bullmq.io/guide/flows) as well as saving intermediary results for improved job recovery and progress management.
 
 ## Installation
 
